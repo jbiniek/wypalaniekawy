@@ -18,10 +18,10 @@ Tył jest zwykle gorętszy, przód chłodniejszy, dlatego odradzam rozkładanie 
 Termoobieg u mnie skutkował nieprzyjemnymi nutami spalenizny i dymu, więc polecam go wyłączyć.
 ### 4. Natychmiast po uzyskaniu 140C wstawiamy ziarna i ustawiamy timer na 4 minuty.
 Ma to na celu wstępne wysuszenie ziaren w celu równiejszego wypalenia. Wstawienie od razu do docelowej temperatury skutkuje tym, że ziarna na wierzchu mogą być mocno wypalone, a w środku pozostają półsurowe i twarde.
-### 5. Po upływie czasu odmierzonego przez timer ustawiamy temperaturę na 220C.
+### 5. Po upływie czasu odmierzonego przez timer ustawiamy temperaturę na 215C.
 ### 6. Po ok. 10 minutach zacznie się "first crack" - pierwsze pękanie, ziarna będą strzelały.
 Trochę jak popcorn. Mniej gwałtownie, ale wystarczająco głośno, że trudno to przegapić. Chyba, że się siedzi w telefonie!
-### 7. Po osiągnięciu 220C typowy piekarnik z rozpędu dojedzie do wyższej temperatury. To jest ok, ale teraz już nie grzejemy dalej
+### 7. Po osiągnięciu 215C typowy piekarnik z rozpędu dojedzie do wyższej temperatury. To jest ok, ale teraz już nie grzejemy dalej
 tylko czekamy aż resztę roboty zrobi zakumulowane ciepło (to może nie zadziałać w przypadku starych, stratnych piekarników). Dalsze aktywne grzanie na tym etapie spowoduje szybkie, nadmierne wypalenie części ziaren, co nie tylko pogorszy równomierność wypalenia, ale też wygeneruje niepotrzebnie dużo dymu, oraz skazi tym dymem profil smakowy kawy.
 ### 8. Wizualnie i węchowo oceniamy czy już jest odpowiedni poziom wypalenia
 Tu przydaje się latarka. Niestety, nie ma tu prostej reguły po jakim czasie ziarna wyjąć, ponieważ piekarniki są różne, ziarna kawy mają różny rozmiar i różną budowę itd., co wpływa na czas palenia. Oczywiście, różne są też preferencje co do poziomu wypalenia! A nie możemy otwierać piekarnika w celu obejrzenia ziaren bo wtedy gwałtownie go ochłodzimy. Więc ten etap wymaga trochę prób, żeby nauczyć się jak się zachowuje nasza kawa i nasz sprzęt, oraz co nam najbardziej odpowiada. Na szczęście to bardzo proste, wystarczy spróbować! Ja czekam aż większość ziaren się "wystrzela", ale nie za długo bo preferuję średnio-jasne wypalenie. Jeśli chcemy ciemny roast z olejami na powierzchni ziarna, to możemy po ustaniu strzelania jeszcza na trochę włączyć grzanie.
