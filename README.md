@@ -13,7 +13,7 @@ Wypalanie kawy w piekarniku jest bardzo proste. A nawet jeśli popełnimy jakie�
   *   15 - 30 minut _wyłącznie_ na ten proces. Nie robimy teraz spóźnionego projektu, nie sprawdzamy powiadomień, nie oglądamy tiktoka, nie trzymamy jedną ręką dziecka. "Do or do not", słowami słynnego mistrza.  
     
 ### 2. Rozkładamy ziarna na blasze w środkowym pasie z dala od przodu i tyłu piekarnika aby zapewnić możliwie równe wypalenie.
-Tył jest zwykle gorętszy, przód chłodniejszy, dlatego odradzam rozkładanie ziaren na całej powierzchni blachy bo nieuchronnie wypali się bardzo nierówno.
+Tył jest zwykle gorętszy, przód chłodniejszy, dlatego odradzam rozkładanie ziaren na całej powierzchni blachy bo większy gradient temperatur przełoży się na bardziej nierówne wypalenie.
 ### 3. Nagrzewamy piekarnik do 90C (parametr zmiennny - 80-140C).
 Grzałki góra + dół, bez termoobiegu. Termoobieg u mnie skutkował nieprzyjemnymi nutami spalenizny i dymu, więc polecam go wyłączyć.
 ### 4. Natychmiast po uzyskaniu 90C wstawiamy ziarna i ustawiamy timer na 1m30s (parametr zmienny - 1m-4m im niższa temperatura startowa, tym krótszy).
